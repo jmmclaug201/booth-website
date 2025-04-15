@@ -69,9 +69,10 @@
   // Create scenes.
   var scenes = data.scenes.map(function(data) {
     var urlPrefix = "tiles";
+    // TODO: Stop Marzipano from fetching z = 0 images, these don't exist...
+    // Alternatively, bring back CubeMapPreviewURL option and get it to act normal...
     var source = Marzipano.ImageUrlSource.fromString(
-      urlPrefix + "/" + data.id + "/{z}/{f}/{y}/{x}.jpg",
-      { cubeMapPreviewUrl: urlPrefix + "/" + data.id + "/preview.jpg" });
+      urlPrefix + "/" + data.id + "/{z}/{f}/{y}/{x}.jpg");  
     var geometry = new Marzipano.CubeGeometry(data.levels);
 
     var limiter = Marzipano.RectilinearView.limit.traditional(data.faceSize, 100*Math.PI/180, 120*Math.PI/180);
@@ -81,7 +82,7 @@
       source: source,
       geometry: geometry,
       view: view,
-      pinFirstLevel: true
+      pinFirstLevel: false
     });
 
     // Create link hotspots.
