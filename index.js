@@ -90,7 +90,7 @@
 
     // Create link hotspots.
     data.linkHotspots.forEach(function(hotspot) {
-      var element = createLinkHotspotElement(hotspot);
+      var element = createLinkHotspotElement(hotspot, data.id);
       scene.hotspotContainer().createHotspot(element, { yaw: hotspot.yaw, pitch: hotspot.pitch });
     });
 
@@ -244,7 +244,7 @@
     }
   }
 
-  function createLinkHotspotElement(hotspot) {
+  function createLinkHotspotElement(hotspot, sourceScene) {
 
     // Create wrapper element to hold icon and tooltip.
     var wrapper = document.createElement('div');
@@ -265,7 +265,18 @@
 
     // Add click event handler.
     wrapper.addEventListener('click', function() {
+      const oldPitch = viewer.scene().view().pitch();
+      console.log(viewer.scene().view().pitch(), hotspot.pitch, oldPitch);
+      const oldYaw = viewer.scene().view().yaw() - hotspot.yaw;
       switchScene(findSceneById(hotspot.target));
+      // Position Camera to face away from previous scene
+      const targetSceneData = data.scenes.find(scene => scene.id === hotspot.target);
+      const inverseHotspot = targetSceneData.linkHotspots.find(inv => inv.target === sourceScene);
+      if (inverseHotspot !== undefined) {
+        viewer.scene().view().setPitch(oldPitch);
+        viewer.scene().view().setYaw(inverseHotspot.yaw + Math.PI + oldYaw);
+        console.log(viewer.scene().view().pitch(), inverseHotspot.pitch, oldPitch);
+      }
     });
 
     // Prevent touch and scroll events from reaching the parent element.
