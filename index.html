@@ -10,7 +10,7 @@
   </head>
   <body>
     <header id="site-header">
-      <a href="https://www.springcarnival.org"><img id="logo" src="img/site/scc-logo.png"></img></a>
+      <a href="https://www.springcarnival.org"><img id="logo" src="img/scc-logo.png"></img></a>
       <p><a href="/">CMU Booth</a></p>
       <nav id="header-nav">
         <a href="/">Results</a>
@@ -19,17 +19,185 @@
     </header>
     <div id="content">
       <div id="year-picker">
-        <a href="/">« 2024</a> Booth 2025 <a href="/">2026 »</a>
+        <a href="/">« 2024</a><h1>Booth 2025</h1><a href="/">2026 »</a>
       </div>
-      <iframe id="pano-frame" src="marzipano.html" allowfullscreen></iframe>
+      <!-- SVG of Midway Booth -->
+      <div id="plotMap">
+        <h2>Plot Map</h2>
+        <svg width="1400" height="300" viewBox="0 0 1400 300" >
+          <line x1="0" y1="110" x2="1400" y2="110" stroke="black" />
+          <line x1="0" y1="190" x2="1400" y2="190" stroke="black" />
+  
+          <rect id="kappa-alpha-theta" x="0" y="0" width="100" height="100" fill="gainsboro" stroke="black" />
+          <rect id="delta-gamma" x="130" y="0" width="100" height="100" fill="darkslateblue" stroke="black" />
+          <rect id="alpha-epsilon-pi" x="260" y="0" width="100" height="100" fill="darksalmon" stroke="black" />
+          <rect id="phi-delta-theta" x="390" y="0" width="100" height="100" fill="gainsboro" stroke="black" />
+          <rect id="swe" x="710" y="0" width="50" height="100" fill="saddlebrown" stroke="black" />
+          <rect id="suse-tpeg" x="780" y="0" width="50" height="100" fill="slategray" stroke="black" />
+          <rect id="ssa" x="1065" y="0" width="50" height="100" fill="darkblue" stroke="black" />
+          <rect id="menasa-spirit" x="1135" y="0" width="50" height="100" fill="indianred" stroke="black" />
+          <rect id="kgb-prism" x="1205" y="0" width="50" height="100" fill="dimgray" stroke="black" />
+  
+          <rect id="asce" x="50" y="200" width="50" height="100" fill="darkturquoise" stroke="black" />
+          <rect id="tsa" x="130" y="200" width="100" height="100" fill="indigo" stroke="black" />
+          <rect id="achio" x="260" y="200" width="100" height="100" fill="lightcyan" stroke="black" />
+          <rect id="tridelt" x="390" y="200" width="100" height="100" fill="lightblue" stroke="black" />
+          <rect id="aphi" x="520" y="200" width="100" height="100" fill="hotpink" stroke="black" />
+          <rect id="fringe" x="650" y="200" width="100" height="100" fill="firebrick" stroke="black" />
+          <rect id="sigep" x="780" y="200" width="100" height="100" fill="tan" stroke="black" />
+          <rect id="kkg" x="910" y="200" width="100" height="100" fill="powderblue" stroke="black" />
+          <rect id="csa" x="1040" y="200" width="100" height="100" fill="turquoise" stroke="black" />
+          <rect id="asa" x="1170" y="200" width="100" height="100" fill="dimgrey" stroke="black" />
+          <rect id="sdc" x="1300" y="200" width="100" height="100" fill="gold" stroke="black" />
+        </svg>  
+      </div>
+      <h2>Midway Tour</h2>
+      <iframe id="pano-frame" src="marzipano/marzipano.html" allowfullscreen></iframe>
     </div>
+
+    <!-- Plot Map Tooltips -->
+    <div id="kappa-alpha-theta-tooltip" class="plot-map-tooltip hidden">
+      <b>Kappa Alpha Theta</b>
+      <br/>
+      Interstellar
+    </div>
+    <div id="delta-gamma-tooltip" class="plot-map-tooltip hidden">
+      <b>Delta Gamma</b>
+      <br/>
+      Wonka
+    </div>
+    <div id="alpha-epsilon-pi-tooltip" class="plot-map-tooltip hidden">
+      <b>Alpha Epsilon Pi</b>
+      <br/>
+      The Simpsons
+    </div>
+    <div id="phi-delta-theta-tooltip" class="plot-map-tooltip hidden">
+      <b>Phi Delta Theta</b>
+      <br/>
+      Men In Black
+    </div>
+    <div id="swe-tooltip" class="plot-map-tooltip hidden">
+      <b>Society of Women Engineers</b>
+      <br/>
+      How to Train Your Dragon
+    </div>
+    <div id="suse-tpeg-tooltip" class="plot-map-tooltip hidden">
+      <b>Sustainable Earth / Theme Park Engineering Group</b>
+      <br/>
+      Jurassic Park
+    </div>
+    <div id="ssa-tooltip" class="plot-map-tooltip hidden">
+      <b>SSA / HKSA / FSA / KASA / SIAM</b>
+      <br/>
+      Monsters Inc
+    </div>
+    <div id="menasa-spirit-tooltip" class="plot-map-tooltip hidden">
+      <b>MENASA / Spirit</b>
+      <br/>
+      Aladdin
+    </div>
+    <div id="kgb-prism-tooltip" class="plot-map-tooltip hidden">
+      <b>KGB / PRISM</b>
+      <br/>
+      Sharknado
+    </div>
+    <div id="asce-tooltip" class="plot-map-tooltip hidden">
+      <b>American Society of Civil Engineers</b>
+      <br/>
+      The LEGO Movie
+    </div>
+    <div id="tsa-tooltip" class="plot-map-tooltip hidden">
+      <b>Taiwanese Students Association</b>
+      <br/>
+      La La Land
+    </div>
+    <div id="achio-tooltip" class="plot-map-tooltip hidden">
+      <b>Alpha Chi Omega</b>
+      <br/>
+      Inside Out
+    </div>
+    <div id="tridelt-tooltip" class="plot-map-tooltip hidden">
+      <b>Delta Delta Delta</b>
+      <br/>
+      Jaws
+    </div>
+    <div id="aphi-tooltip" class="plot-map-tooltip hidden">
+      <b>Alpha Phi</b>
+      <br/>
+      Barbie
+    </div>
+    <div id="fringe-tooltip" class="plot-map-tooltip hidden">
+      <b>Fringe</b>
+      <br/>
+      The Muppets
+    </div>
+    <div id="sigep-tooltip" class="plot-map-tooltip hidden">
+      <b>Sigma Phi Epsilon</b>
+      <br/>
+      Indiana Jones
+    </div>
+    <div id="kkg-tooltip" class="plot-map-tooltip hidden">
+      <b>Kappa Kappa Gamma</b>
+      <br/>
+      Toy Story
+    </div>
+    <div id="csa-tooltip" class="plot-map-tooltip hidden">
+      <b>Chinese Students Association</b>
+      <br/>
+      Mulan
+    </div>
+    <div id="asa-tooltip" class="plot-map-tooltip hidden">
+      <b>Asian Student Association</b>
+      <br/>
+      Howl's Moving Castle
+    </div>
+    <div id="sdc-tooltip" class="plot-map-tooltip hidden">
+      <b>Student Dormitory Council</b>
+      <br/>
+      WALL-E
+    </div>
+
+
     <footer id="site-footer">
       Website by Joe McLaughlin and the Spring Carnival Software Subcommittee
     </footer>
+    <script>
+      const svg = document.querySelector('svg');
+      const rects = svg.getElementsByTagName('rect');
+      for (const rect of rects) {
+        try {
+          const tooltip = document.getElementById(`${rect.id}-tooltip`);
+
+          // Place tooltip in correct spot
+          const rectBox = rect.getBoundingClientRect();
+          const tooltipBox = tooltip.getBoundingClientRect();
+          const bodyBox = document.body.getBoundingClientRect();
+          const top = rectBox.top - bodyBox.top - tooltipBox.height - 10;
+          const left = rectBox.left + rectBox.width / 2 - bodyBox.left - tooltipBox.width / 2;
+          tooltip.style.top = `${top}px`;
+          tooltip.style.left = `${left}px`;
+
+          // Toottip should appear only when rect is hovered over
+          rect.addEventListener('mouseover', () => {
+            tooltip.classList.remove('hidden');
+          });
+          rect.addEventListener('mouseout', () => {
+            tooltip.classList.add('hidden');
+          });
+
+          rect.addEventListener('click', () => {
+
+          });
+        } catch (e) {
+          console.error(e);
+          continue;
+        }
+      };
+    </script>
     <script src="vendor/screenfull.min.js" ></script>
     <script src="vendor/bowser.min.js" ></script>
     <script src="vendor/marzipano.js" ></script>
-    <script src="data.js"></script>
-    <script src="index.js"></script>
+    <script src="marzipano/data.js"></script>
+    <script src="marzipano/index.js"></script>    
   </body>
 </html>
