@@ -3,7 +3,8 @@
   --light-gray: #ddd;
   --dark-gray: #626262;
   --black: #000;
-  --red: #c92026
+  --red: #c92026;
+  --gold: #fdb517;
 }
 
 html, body {
@@ -101,16 +102,21 @@ b {
   font-size: large;
 }
 
-#plotMap {
+#plot-map {
   margin-bottom: 1em;
 }
 
-#plotMap h2 {
+#plot-map h2 {
   font-size: xx-large;
 }
 
-#plotMap svg {
+#plot-map-svg {
   width: 100%;
+}
+
+#plot-map-svg rect:hover {
+  stroke-width: 0.5em;
+  stroke: var(--gold);
 }
 
 .plot-map-tooltip {

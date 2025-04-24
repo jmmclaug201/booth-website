@@ -160,6 +160,7 @@
   }
 
   function switchScene(scene) {
+    console.log(scene.data.id);
     stopAutorotate();
     scene.view.setParameters(scene.data.initialViewParameters);
     scene.scene.switchTo();
@@ -211,7 +212,6 @@
     // Add click event handler.
     wrapper.addEventListener('click', function() {
       const oldPitch = viewer.scene().view().pitch();
-      console.log(viewer.scene().view().pitch(), hotspot.pitch, oldPitch);
       const oldYaw = viewer.scene().view().yaw() - hotspot.yaw;
       switchScene(findSceneById(hotspot.target));
       // Position Camera to face away from previous scene
@@ -220,7 +220,6 @@
       if (inverseHotspot !== undefined) {
         viewer.scene().view().setPitch(oldPitch);
         viewer.scene().view().setYaw(inverseHotspot.yaw + Math.PI + oldYaw);
-        console.log(viewer.scene().view().pitch(), inverseHotspot.pitch, oldPitch);
       }
     });
 
@@ -345,4 +344,16 @@
   // Display the initial scene.
   switchScene(scenes[0]);
 
+  window.addEventListener('message', function(event) {
+    const { type, sceneId } = event.data;
+
+    if (type == 'changeScene') {
+      switchScene(findSceneById(sceneId));
+    }
+  });
+
+  setInterval(() => {
+    console.log("Pitch:", viewer.scene().view().pitch());
+    console.log("Yaw:", viewer.scene().view().yaw());
+  }, 1000);
 })();

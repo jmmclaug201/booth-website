@@ -22,9 +22,9 @@
         <a href="/">« 2024</a><h1>Booth 2025</h1><a href="/">2026 »</a>
       </div>
       <!-- SVG of Midway Booth -->
-      <div id="plotMap">
+      <div id="plot-map">
         <h2>Plot Map</h2>
-        <svg width="1400" height="300" viewBox="0 0 1400 300" >
+        <svg id="plot-map-svg" width="1400" height="300" viewBox="0 0 1400 300" >
           <line x1="0" y1="110" x2="1400" y2="110" stroke="black" />
           <line x1="0" y1="190" x2="1400" y2="190" stroke="black" />
   
@@ -162,7 +162,7 @@
       Website by Joe McLaughlin and the Spring Carnival Software Subcommittee
     </footer>
     <script>
-      const svg = document.querySelector('svg');
+      const svg = document.querySelector('#plot-map-svg');
       const rects = svg.getElementsByTagName('rect');
       for (const rect of rects) {
         try {
@@ -186,7 +186,8 @@
           });
 
           rect.addEventListener('click', () => {
-
+            const iframe = document.querySelector('#pano-frame');
+            iframe.contentWindow.postMessage({ type: 'changeScene', sceneId: `START-${rect.id}` }, '*');
           });
         } catch (e) {
           console.error(e);
@@ -198,6 +199,6 @@
     <script src="vendor/bowser.min.js" ></script>
     <script src="vendor/marzipano.js" ></script>
     <script src="marzipano/data.js"></script>
-    <script src="marzipano/index.js"></script>    
+    <script src="marzipano/index.js"></script>
   </body>
 </html>

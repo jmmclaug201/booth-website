@@ -47,13 +47,13 @@ var APP_DATA = {
           "yaw": -3.0344580663327,
           "pitch": -0.006093636973554695,
           "rotation": 0,
-          "target": "85-booths_aepi_simpsons_17"
+          "target": "START-kappa-alpha-theta"
         },
         {
           "yaw": 1.214626945542273,
           "pitch": 0.09344150567255305,
           "rotation": 0,
-          "target": "88-booths_asce_lego_1"
+          "target": "START-asce"
         }
       ],
       "infoHotspots": []
@@ -99,13 +99,13 @@ var APP_DATA = {
           "yaw": -2.3446455833506725,
           "pitch": 0.024142963994695066,
           "rotation": 0,
-          "target": "92-booths_dg_willywonka_1"
+          "target": "START-delta-gamma"
         },
         {
           "yaw": 0.70694707023,
           "pitch": 0.024142963994695066,
           "rotation": 0,
-          "target": "29-start_tsa_lalaland"
+          "target": "START-tsa"
         }
       ],
       "infoHotspots": []
@@ -203,13 +203,13 @@ var APP_DATA = {
           "yaw": -2.890145368326115,
           "pitch": 0.07154840817216268,
           "rotation": 0,
-          "target": "84-booths_aepi_simpsons_1"
+          "target": "START-alpha-epsilon-pi"
         },
         {
           "yaw": 0.8356538200673622,
           "pitch": 0.07143939082672546,
           "rotation": 0,
-          "target": "103-booths_axo_insideout_9"
+          "target": "START-achio"
         }
       ],
       "infoHotspots": []
@@ -307,7 +307,7 @@ var APP_DATA = {
           "yaw": 0.3860756051167584,
           "pitch": 0.08545715810216947,
           "rotation": 0,
-          "target": "91-booths_ddd_jaws_1"
+          "target": "START-tridelt"
         }
       ],
       "infoHotspots": []
@@ -359,13 +359,13 @@ var APP_DATA = {
           "yaw": -2.210268473804181,
           "pitch": 0.035350435964435434,
           "rotation": 0,
-          "target": "98-booths_phidelt_meninblack_1"
+          "target": "START-phi-delta-theta"
         },
         {
           "yaw": 0.2589147493351014,
           "pitch": 0.1005857847755589,
           "rotation": 0,
-          "target": "86-booths_aphi_barbie_1"
+          "target": "START-aphi"
         }
       ],
       "infoHotspots": []
@@ -469,7 +469,7 @@ var APP_DATA = {
           "yaw": 0.5710720863584555,
           "pitch": 0.06681306983846191,
           "rotation": 0,
-          "target": "93-booths_fringe_muppets_1"
+          "target": "START-fringe"
         }
       ],
       "infoHotspots": []
@@ -527,13 +527,13 @@ var APP_DATA = {
           "yaw": -2.0206194067457925,
           "pitch": 0.02424527380870245,
           "rotation": 0,
-          "target": "102-booths_suse_tpeg_jurassicpark_1"
+          "target": "START-suse-tpeg"
         },
         {
           "yaw": -2.6706194067457925,
           "pitch": 0.02424527380870245,
           "rotation": 0,
-          "target": "0-swe"
+          "target": "START-swe"
         }
       ],
       "infoHotspots": []
@@ -585,7 +585,7 @@ var APP_DATA = {
           "yaw": 0.9100884902738553,
           "pitch": 0.07774924550314921,
           "rotation": 0,
-          "target": "100-booths_sigep_indianajones_1"
+          "target": "START-sigep"
         }
       ],
       "infoHotspots": []
@@ -637,7 +637,7 @@ var APP_DATA = {
           "yaw": -0.3660597914062702,
           "pitch": 0.11385541796265386,
           "rotation": 0,
-          "target": "96-booths_kkg_toystory_1"
+          "target": "START-kkg"
         }
       ],
       "infoHotspots": []
@@ -741,13 +741,13 @@ var APP_DATA = {
           "yaw": 1.2398711035086158,
           "pitch": 0.08697765626139997,
           "rotation": 0,
-          "target": "104-booths_csa_mulan_7"
+          "target": "START-csa"
         },
         {
           "yaw": -2.7830924183859604,
           "pitch": 0.020937033037263575,
           "rotation": 0,
-          "target": "101-booths_ssa_monstersinc_1"
+          "target": "START-ssa"
         }
       ],
       "infoHotspots": []
@@ -805,7 +805,7 @@ var APP_DATA = {
           "yaw": -2.480145232117618,
           "pitch": 0.0387334392083325,
           "rotation": 0,
-          "target": "97-booths_menasaspirit_aladdin_1"
+          "target": "START-menasa-spirit"
         }
       ],
       "infoHotspots": []
@@ -857,13 +857,13 @@ var APP_DATA = {
           "yaw": 0.9601309989052762,
           "pitch": 0.029139419893578378,
           "rotation": 0,
-          "target": "87-booths_asa_howls_1"
+          "target": "START-asa"
         },
         {
           "yaw": -2.5586818888565297,
           "pitch": -0.022748850606776116,
           "rotation": 0,
-          "target": "95-booths_kgbprism_sharknado_1"
+          "target": "START-kgb-prism"
         }
       ],
       "infoHotspots": []
@@ -909,7 +909,7 @@ var APP_DATA = {
           "yaw": 1.8331265824794496,
           "pitch": 0.024226149056275403,
           "rotation": 0,
-          "target": "99-booths_sdc_walle_1"
+          "target": "START-sdc"
         }
       ],
       "infoHotspots": []
@@ -3697,7 +3697,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "84-booths_aepi_simpsons_1",
+      "id": "START-alpha-epsilon-pi",
       "name": "booths_AEPi_Simpsons_1",
       "levels": [
         {
@@ -3716,8 +3716,8 @@ var APP_DATA = {
       ],
       "faceSize": 768,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
+        "pitch": 0.15,
+        "yaw": -0.65,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
@@ -3737,7 +3737,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "85-booths_aepi_simpsons_17",
+      "id": "START-kappa-alpha-theta",
       "name": "booths_AEPi_Simpsons_17",
       "levels": [
         {
@@ -3756,8 +3756,8 @@ var APP_DATA = {
       ],
       "faceSize": 768,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
+        "pitch": -0.016,
+        "yaw": 3.077,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
@@ -3777,7 +3777,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "86-booths_aphi_barbie_1",
+      "id": "START-aphi",
       "name": "booths_APhi_Barbie_1",
       "levels": [
         {
@@ -3797,7 +3797,7 @@ var APP_DATA = {
       "faceSize": 768,
       "initialViewParameters": {
         "pitch": 0,
-        "yaw": 0,
+        "yaw": -1.86,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
@@ -3817,7 +3817,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "87-booths_asa_howls_1",
+      "id": "START-asa",
       "name": "booths_ASA_Howls_1",
       "levels": [
         {
@@ -3837,7 +3837,7 @@ var APP_DATA = {
       "faceSize": 768,
       "initialViewParameters": {
         "pitch": 0,
-        "yaw": 0,
+        "yaw": 1.9,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
@@ -3857,7 +3857,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "88-booths_asce_lego_1",
+      "id": "START-asce",
       "name": "booths_ASCE_LEGO_1",
       "levels": [
         {
@@ -3877,7 +3877,7 @@ var APP_DATA = {
       "faceSize": 768,
       "initialViewParameters": {
         "pitch": 0,
-        "yaw": 0,
+        "yaw": -2.28,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
@@ -3951,7 +3951,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "91-booths_ddd_jaws_1",
+      "id": "START-tridelt",
       "name": "booths_DDD_Jaws_1",
       "levels": [
         {
@@ -3971,7 +3971,7 @@ var APP_DATA = {
       "faceSize": 768,
       "initialViewParameters": {
         "pitch": 0,
-        "yaw": 0,
+        "yaw": 2.08,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
@@ -3991,7 +3991,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "92-booths_dg_willywonka_1",
+      "id": "START-delta-gamma",
       "name": "booths_DG_WillyWonka_1",
       "levels": [
         {
@@ -4011,7 +4011,7 @@ var APP_DATA = {
       "faceSize": 768,
       "initialViewParameters": {
         "pitch": 0,
-        "yaw": 0,
+        "yaw": 2.1911,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
@@ -4031,7 +4031,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "93-booths_fringe_muppets_1",
+      "id": "START-fringe",
       "name": "booths_Fringe_Muppets_1",
       "levels": [
         {
@@ -4051,7 +4051,7 @@ var APP_DATA = {
       "faceSize": 768,
       "initialViewParameters": {
         "pitch": 0,
-        "yaw": 0,
+        "yaw": 3,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
@@ -4071,34 +4071,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "94-booths_kat_interstellar_1",
-      "name": "booths_KAT_Interstellar_1",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        }
-      ],
-      "faceSize": 768,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [],
-      "infoHotspots": []
-    },
-    {
-      "id": "95-booths_kgbprism_sharknado_1",
+      "id": "START-kgb-prism",
       "name": "booths_KGBPrism_Sharknado_1",
       "levels": [
         {
@@ -4118,7 +4091,7 @@ var APP_DATA = {
       "faceSize": 768,
       "initialViewParameters": {
         "pitch": 0,
-        "yaw": 0,
+        "yaw": 1,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
@@ -4138,7 +4111,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "96-booths_kkg_toystory_1",
+      "id": "START-kkg",
       "name": "booths_KKG_ToyStory_1",
       "levels": [
         {
@@ -4157,8 +4130,8 @@ var APP_DATA = {
       ],
       "faceSize": 768,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
+        "pitch": -0.15,
+        "yaw": 0.94,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
@@ -4178,7 +4151,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "97-booths_menasaspirit_aladdin_1",
+      "id": "START-menasa-spirit",
       "name": "booths_MenasaSpirit_Aladdin_1",
       "levels": [
         {
@@ -4198,7 +4171,7 @@ var APP_DATA = {
       "faceSize": 768,
       "initialViewParameters": {
         "pitch": 0,
-        "yaw": 0,
+        "yaw": -2.68,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
@@ -4218,7 +4191,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "98-booths_phidelt_meninblack_1",
+      "id": "START-phi-delta-theta",
       "name": "booths_PhiDelt_MenInBlack_1",
       "levels": [
         {
@@ -4238,7 +4211,7 @@ var APP_DATA = {
       "faceSize": 768,
       "initialViewParameters": {
         "pitch": 0,
-        "yaw": 0,
+        "yaw": -3.14,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
@@ -4258,7 +4231,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "99-booths_sdc_walle_1",
+      "id": "START-sdc",
       "name": "booths_SDC_WALLE_1",
       "levels": [
         {
@@ -4278,7 +4251,7 @@ var APP_DATA = {
       "faceSize": 768,
       "initialViewParameters": {
         "pitch": 0,
-        "yaw": 0,
+        "yaw": -2.36,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
@@ -4298,7 +4271,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "100-booths_sigep_indianajones_1",
+      "id": "START-sigep",
       "name": "booths_SigEp_IndianaJones_1",
       "levels": [
         {
@@ -4318,7 +4291,7 @@ var APP_DATA = {
       "faceSize": 768,
       "initialViewParameters": {
         "pitch": 0,
-        "yaw": 0,
+        "yaw": 2.12,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
@@ -4338,7 +4311,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "101-booths_ssa_monstersinc_1",
+      "id": "START-ssa",
       "name": "booths_SSA_MonstersINC_1",
       "levels": [
         {
@@ -4358,7 +4331,7 @@ var APP_DATA = {
       "faceSize": 768,
       "initialViewParameters": {
         "pitch": 0,
-        "yaw": 0,
+        "yaw": 3.06,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
@@ -4378,7 +4351,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "102-booths_suse_tpeg_jurassicpark_1",
+      "id": "START-suse-tpeg",
       "name": "booths_SuSE_TPEG_JurassicPark_1",
       "levels": [
         {
@@ -4398,7 +4371,7 @@ var APP_DATA = {
       "faceSize": 768,
       "initialViewParameters": {
         "pitch": 0,
-        "yaw": 0,
+        "yaw": 2.26,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
@@ -4418,7 +4391,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "103-booths_axo_insideout_9",
+      "id": "START-achio",
       "name": "booths_AXO_InsideOut_9",
       "levels": [
         {
@@ -4438,7 +4411,7 @@ var APP_DATA = {
       "faceSize": 768,
       "initialViewParameters": {
         "pitch": 0,
-        "yaw": 0,
+        "yaw": 2,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
@@ -4458,7 +4431,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "104-booths_csa_mulan_7",
+      "id": "START-csa",
       "name": "booths_CSA_Mulan_7",
       "levels": [
         {
@@ -4526,7 +4499,7 @@ var APP_DATA = {
           "yaw": -2.9947032124397843,
           "pitch": 0.6665159400756533,
           "rotation": 0,
-          "target": "84-booths_aepi_simpsons_1"
+          "target": "START-alpha-epsilon-pi"
         },
         {
           "yaw": 0.13045262026441407,
@@ -5120,7 +5093,7 @@ var APP_DATA = {
           "yaw": 0.4819057556035382,
           "pitch": 0.016055565401014604,
           "rotation": 0,
-          "target": "85-booths_aepi_simpsons_17"
+          "target": "START-kappa-alpha-theta"
         },
         {
           "yaw": -1.6740313061415844,
@@ -5714,7 +5687,7 @@ var APP_DATA = {
           "yaw": 1.327357587829109,
           "pitch": 0.32645254354160613,
           "rotation": 0,
-          "target": "86-booths_aphi_barbie_1"
+          "target": "START-aphi"
         },
         {
           "yaw": -0.39335711811561325,
@@ -6068,7 +6041,7 @@ var APP_DATA = {
           "yaw": -1.3330207303544857,
           "pitch": 0.18927550035941465,
           "rotation": 0,
-          "target": "87-booths_asa_howls_1"
+          "target": "START-asa"
         },
         {
           "yaw": -2.9669907866213645,
@@ -7016,7 +6989,7 @@ var APP_DATA = {
           "yaw": 0.11058488783430853,
           "pitch": 0.13814178349423045,
           "rotation": 0,
-          "target": "103-booths_axo_insideout_9"
+          "target": "START-achio"
         },
         {
           "yaw": 1.6567232346040655,
@@ -7056,7 +7029,7 @@ var APP_DATA = {
           "yaw": -1.3870085998659398,
           "pitch": 0.11720291436098229,
           "rotation": 0,
-          "target": "91-booths_ddd_jaws_1"
+          "target": "START-tridelt"
         },
         {
           "yaw": 1.8706700390213875,
@@ -7210,7 +7183,7 @@ var APP_DATA = {
           "yaw": -0.8957833804326043,
           "pitch": 0.1469422799487674,
           "rotation": 0,
-          "target": "92-booths_dg_willywonka_1"
+          "target": "START-delta-gamma"
         },
         {
           "yaw": -2.5069685144314064,
@@ -7524,7 +7497,7 @@ var APP_DATA = {
           "yaw": 2.424948297159556,
           "pitch": 0.1355522694294784,
           "rotation": 0,
-          "target": "93-booths_fringe_muppets_1"
+          "target": "START-fringe"
         },
         {
           "yaw": -0.6034743609413624,
@@ -7918,7 +7891,7 @@ var APP_DATA = {
           "yaw": -1.5088662817905263,
           "pitch": 0.19430010814441978,
           "rotation": 0,
-          "target": "95-booths_kgbprism_sharknado_1"
+          "target": "START-kgb-prism"
         },
         {
           "yaw": 1.5313998346289406,
@@ -8118,7 +8091,7 @@ var APP_DATA = {
           "yaw": 0.9644999014427569,
           "pitch": 0.2753660682202792,
           "rotation": 0,
-          "target": "97-booths_menasaspirit_aladdin_1"
+          "target": "START-menasa-spirit"
         }
       ],
       "infoHotspots": []
@@ -8426,7 +8399,7 @@ var APP_DATA = {
           "yaw": 0.2398133913449918,
           "pitch": 0.1455940629449337,
           "rotation": 0,
-          "target": "98-booths_phidelt_meninblack_1"
+          "target": "START-phi-delta-theta"
         },
         {
           "yaw": -2.824941705346017,
@@ -9140,7 +9113,7 @@ var APP_DATA = {
           "yaw": 2.109969110365654,
           "pitch": 0.1602554699087051,
           "rotation": 0,
-          "target": "99-booths_sdc_walle_1"
+          "target": "START-sdc"
         },
         {
           "yaw": -2.5813875370204844,
@@ -9414,7 +9387,7 @@ var APP_DATA = {
           "yaw": 1.225990558815198,
           "pitch": 0.18457754926076575,
           "rotation": 0,
-          "target": "100-booths_sigep_indianajones_1"
+          "target": "START-sigep"
         },
         {
           "yaw": 3.0336910767029917,
@@ -10048,7 +10021,7 @@ var APP_DATA = {
           "yaw": 3.033071293083837,
           "pitch": 0.13306164841386092,
           "rotation": 0,
-          "target": "101-booths_ssa_monstersinc_1"
+          "target": "START-ssa"
         },
         {
           "yaw": -1.7552018149433053,
@@ -10322,7 +10295,7 @@ var APP_DATA = {
           "yaw": -2.2088666888871167,
           "pitch": 0.08761736610416726,
           "rotation": 0,
-          "target": "104-booths_csa_mulan_7"
+          "target": "START-csa"
         },
         {
           "yaw": 1.0030435812581722,
@@ -10556,7 +10529,7 @@ var APP_DATA = {
           "yaw": -0.9587274646158548,
           "pitch": 0.7331005206137604,
           "rotation": 0,
-          "target": "96-booths_kkg_toystory_1"
+          "target": "START-kkg"
         },
         {
           "yaw": 2.093662200675829,
@@ -11030,7 +11003,7 @@ var APP_DATA = {
           "yaw": 0.6848761478678398,
           "pitch": 0.20840766938725963,
           "rotation": 0,
-          "target": "102-booths_suse_tpeg_jurassicpark_1"
+          "target": "START-suse-tpeg"
         },
         {
           "yaw": -2.3526225007591925,
@@ -11184,7 +11157,7 @@ var APP_DATA = {
           "yaw": -0.3050864649389631,
           "pitch": 0.24637479777210736,
           "rotation": 0,
-          "target": "88-booths_asce_lego_1"
+          "target": "START-asce"
         },
         {
           "yaw": 2.2154635101015847,
@@ -11270,7 +11243,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "29-start_tsa_lalaland",
+      "id": "START-tsa",
       "name": "Start_TSA_LaLaLand",
       "levels": [
         {
@@ -11290,7 +11263,7 @@ var APP_DATA = {
       "faceSize": 768,
       "initialViewParameters": {
         "pitch": 0,
-        "yaw": 0,
+        "yaw": 2.72,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
@@ -11338,7 +11311,7 @@ var APP_DATA = {
           "yaw": 0.07561260003097559,
           "pitch": 0.17292112247867664,
           "rotation": 0,
-          "target": "29-start_tsa_lalaland"
+          "target": "START-tsa"
         },
         {
           "yaw": 3.0995155263243985,
@@ -11716,7 +11689,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "0-swe",
+      "id": "START-swe",
       "name": "1",
       "levels": [
         {
@@ -11736,7 +11709,7 @@ var APP_DATA = {
       "faceSize": 768,
       "initialViewParameters": {
         "pitch": 0,
-        "yaw": 0,
+        "yaw": -2.16,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
@@ -11784,7 +11757,7 @@ var APP_DATA = {
           "yaw": 0.07995603221815806,
           "pitch": 0.09461222961874505,
           "rotation": 0,
-          "target": "0-swe"
+          "target": "START-swe"
         },
         {
           "yaw": 2.949432539437476,
@@ -11834,7 +11807,7 @@ var APP_DATA = {
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
-    "fullscreenButton": false,
+    "fullscreenButton": true,
     "viewControlButtons": false
   }
 };
