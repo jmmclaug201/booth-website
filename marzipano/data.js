@@ -5,11 +5,6 @@ var APP_DATA = {
       "name": "midway_1",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -63,11 +58,6 @@ var APP_DATA = {
       "name": "midway_2",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -114,11 +104,6 @@ var APP_DATA = {
       "id": "2-midway_3",
       "name": "midway_3",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -167,11 +152,6 @@ var APP_DATA = {
       "name": "midway_4",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -218,11 +198,6 @@ var APP_DATA = {
       "id": "4-midway_5",
       "name": "midway_5",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -271,11 +246,6 @@ var APP_DATA = {
       "name": "midway_6",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -316,11 +286,6 @@ var APP_DATA = {
       "id": "6-midway_7",
       "name": "midway_7",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -375,11 +340,6 @@ var APP_DATA = {
       "name": "midway_8",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -427,11 +387,6 @@ var APP_DATA = {
       "name": "midway_9",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -478,11 +433,6 @@ var APP_DATA = {
       "id": "9-midway_10",
       "name": "midway_10",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -543,11 +493,6 @@ var APP_DATA = {
       "name": "midway_11",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -594,11 +539,6 @@ var APP_DATA = {
       "id": "11-midway_12",
       "name": "midway_12",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -647,11 +587,6 @@ var APP_DATA = {
       "name": "midway_13",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -698,11 +633,6 @@ var APP_DATA = {
       "id": "13-midway_14",
       "name": "midway_14",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -757,11 +687,6 @@ var APP_DATA = {
       "name": "midway_15",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -814,11 +739,6 @@ var APP_DATA = {
       "id": "15-midway_16",
       "name": "midway_16",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -873,11 +793,6 @@ var APP_DATA = {
       "name": "midway_17",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -919,11 +834,6 @@ var APP_DATA = {
       "name": "between_cfa_1",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -958,11 +868,6 @@ var APP_DATA = {
       "id": "18-between_cfa_2",
       "name": "between_cfa_2",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -999,11 +904,6 @@ var APP_DATA = {
       "name": "between_cfa_3",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -1038,11 +938,6 @@ var APP_DATA = {
       "id": "20-between_cfa_4",
       "name": "between_cfa_4",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -1079,11 +974,6 @@ var APP_DATA = {
       "name": "between_cfa_5",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -1118,11 +1008,6 @@ var APP_DATA = {
       "id": "22-between_cfa_6",
       "name": "between_cfa_6",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -1159,11 +1044,6 @@ var APP_DATA = {
       "name": "between_cfa_7",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -1198,11 +1078,6 @@ var APP_DATA = {
       "id": "24-between_cfa_8",
       "name": "between_cfa_8",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -1239,11 +1114,6 @@ var APP_DATA = {
       "name": "between_cfa_9",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -1279,11 +1149,6 @@ var APP_DATA = {
       "name": "between_cfa_10",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -1312,11 +1177,6 @@ var APP_DATA = {
       "id": "27-between_cfa_11",
       "name": "between_cfa_11",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -1353,11 +1213,6 @@ var APP_DATA = {
       "name": "between_tennis_courts_1",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -1392,11 +1247,6 @@ var APP_DATA = {
       "id": "29-between_tennis_courts_2",
       "name": "between_tennis_courts_2",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -1433,11 +1283,6 @@ var APP_DATA = {
       "name": "between_tennis_courts_3",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -1472,11 +1317,6 @@ var APP_DATA = {
       "id": "31-between_tennis_courts_4",
       "name": "between_tennis_courts_4",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -1513,11 +1353,6 @@ var APP_DATA = {
       "name": "between_tennis_courts_5",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -1552,11 +1387,6 @@ var APP_DATA = {
       "id": "33-between_tennis_courts_6",
       "name": "between_tennis_courts_6",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -1593,11 +1423,6 @@ var APP_DATA = {
       "name": "between_tennis_courts_7",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -1632,11 +1457,6 @@ var APP_DATA = {
       "id": "35-between_tennis_courts_8",
       "name": "between_tennis_courts_8",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -1673,11 +1493,6 @@ var APP_DATA = {
       "name": "between_tennis_courts_9",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -1712,11 +1527,6 @@ var APP_DATA = {
       "id": "37-between_tennis_courts_10",
       "name": "between_tennis_courts_10",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -1753,11 +1563,6 @@ var APP_DATA = {
       "name": "between_tennis_courts_11",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -1793,11 +1598,6 @@ var APP_DATA = {
       "name": "cfa_1",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -1826,11 +1626,6 @@ var APP_DATA = {
       "id": "40-cfa_2",
       "name": "cfa_2",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -1866,11 +1661,6 @@ var APP_DATA = {
       "id": "41-cfa_3",
       "name": "cfa_3",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -1913,11 +1703,6 @@ var APP_DATA = {
       "name": "cfa_4",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -1952,11 +1737,6 @@ var APP_DATA = {
       "id": "43-cfa_5",
       "name": "cfa_5",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -1999,11 +1779,6 @@ var APP_DATA = {
       "name": "cfa_6",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -2038,11 +1813,6 @@ var APP_DATA = {
       "id": "45-cfa_7",
       "name": "cfa_7",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -2085,11 +1855,6 @@ var APP_DATA = {
       "name": "cfa_8",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -2124,11 +1889,6 @@ var APP_DATA = {
       "id": "47-cfa_9",
       "name": "cfa_9",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -2171,11 +1931,6 @@ var APP_DATA = {
       "name": "cfa_10",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -2210,11 +1965,6 @@ var APP_DATA = {
       "id": "49-cfa_11",
       "name": "cfa_11",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -2257,11 +2007,6 @@ var APP_DATA = {
       "name": "cfa_12",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -2296,11 +2041,6 @@ var APP_DATA = {
       "id": "51-cfa_13",
       "name": "cfa_13",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -2343,11 +2083,6 @@ var APP_DATA = {
       "name": "cfa_14",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -2382,11 +2117,6 @@ var APP_DATA = {
       "id": "53-cfa_15",
       "name": "cfa_15",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -2429,11 +2159,6 @@ var APP_DATA = {
       "name": "cfa_16",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -2468,11 +2193,6 @@ var APP_DATA = {
       "id": "55-cfa_17",
       "name": "cfa_17",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -2515,11 +2235,6 @@ var APP_DATA = {
       "name": "cfa_18",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -2554,11 +2269,6 @@ var APP_DATA = {
       "id": "57-cfa_19",
       "name": "cfa_19",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -2601,11 +2311,6 @@ var APP_DATA = {
       "name": "cfa_20",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -2640,11 +2345,6 @@ var APP_DATA = {
       "id": "59-cfa_21",
       "name": "cfa_21",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -2687,11 +2387,6 @@ var APP_DATA = {
       "name": "cfa_22",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -2726,11 +2421,6 @@ var APP_DATA = {
       "id": "61-cfa_23",
       "name": "cfa_23",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -2767,11 +2457,6 @@ var APP_DATA = {
       "name": "tennis_courts_1",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -2800,11 +2485,6 @@ var APP_DATA = {
       "id": "63-tennis_courts_2",
       "name": "tennis_courts_2",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -2840,11 +2520,6 @@ var APP_DATA = {
       "id": "64-tennis_courts_3",
       "name": "tennis_courts_3",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -2887,11 +2562,6 @@ var APP_DATA = {
       "name": "tennis_courts_4",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -2926,11 +2596,6 @@ var APP_DATA = {
       "id": "66-tennis_courts_5",
       "name": "tennis_courts_5",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -2973,11 +2638,6 @@ var APP_DATA = {
       "name": "tennis_courts_6",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -3012,11 +2672,6 @@ var APP_DATA = {
       "id": "68-tennis_courts_7",
       "name": "tennis_courts_7",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -3059,11 +2714,6 @@ var APP_DATA = {
       "name": "tennis_courts_8",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -3098,11 +2748,6 @@ var APP_DATA = {
       "id": "70-tennis_courts_9",
       "name": "tennis_courts_9",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -3145,11 +2790,6 @@ var APP_DATA = {
       "name": "tennis_courts_10",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -3191,11 +2831,6 @@ var APP_DATA = {
       "name": "tennis_courts_11",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -3230,11 +2865,6 @@ var APP_DATA = {
       "id": "73-tennis_courts_12",
       "name": "tennis_courts_12",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -3277,11 +2907,6 @@ var APP_DATA = {
       "name": "tennis_courts_13",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -3316,11 +2941,6 @@ var APP_DATA = {
       "id": "75-tennis_courts_14",
       "name": "tennis_courts_14",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -3363,11 +2983,6 @@ var APP_DATA = {
       "name": "tennis_courts_15",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -3402,11 +3017,6 @@ var APP_DATA = {
       "id": "77-tennis_courts_16",
       "name": "tennis_courts_16",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -3449,11 +3059,6 @@ var APP_DATA = {
       "name": "tennis_courts_17",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -3488,11 +3093,6 @@ var APP_DATA = {
       "id": "79-tennis_courts_18",
       "name": "tennis_courts_18",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -3535,11 +3135,6 @@ var APP_DATA = {
       "name": "tennis_courts_19",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -3574,11 +3169,6 @@ var APP_DATA = {
       "id": "81-tennis_courts_20",
       "name": "tennis_courts_20",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -3621,11 +3211,6 @@ var APP_DATA = {
       "name": "tennis_courts_21",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -3660,11 +3245,6 @@ var APP_DATA = {
       "id": "83-tennis_courts_22",
       "name": "tennis_courts_22",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -3701,11 +3281,6 @@ var APP_DATA = {
       "name": "booths_AEPi_Simpsons_1",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -3740,11 +3315,6 @@ var APP_DATA = {
       "id": "START-kappa-alpha-theta",
       "name": "booths_AEPi_Simpsons_17",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -3781,11 +3351,6 @@ var APP_DATA = {
       "name": "booths_APhi_Barbie_1",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -3820,11 +3385,6 @@ var APP_DATA = {
       "id": "START-asa",
       "name": "booths_ASA_Howls_1",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -3861,11 +3421,6 @@ var APP_DATA = {
       "name": "booths_ASCE_LEGO_1",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -3901,11 +3456,6 @@ var APP_DATA = {
       "name": "booths_AXO_InsideOut_1",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -3928,11 +3478,6 @@ var APP_DATA = {
       "name": "booths_CSA_Mulan_1",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -3954,11 +3499,6 @@ var APP_DATA = {
       "id": "START-tridelt",
       "name": "booths_DDD_Jaws_1",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -3995,11 +3535,6 @@ var APP_DATA = {
       "name": "booths_DG_WillyWonka_1",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -4034,11 +3569,6 @@ var APP_DATA = {
       "id": "START-fringe",
       "name": "booths_Fringe_Muppets_1",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -4075,11 +3605,6 @@ var APP_DATA = {
       "name": "booths_KGBPrism_Sharknado_1",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -4114,11 +3639,6 @@ var APP_DATA = {
       "id": "START-kkg",
       "name": "booths_KKG_ToyStory_1",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -4155,11 +3675,6 @@ var APP_DATA = {
       "name": "booths_MenasaSpirit_Aladdin_1",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -4194,11 +3709,6 @@ var APP_DATA = {
       "id": "START-phi-delta-theta",
       "name": "booths_PhiDelt_MenInBlack_1",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -4235,16 +3745,11 @@ var APP_DATA = {
       "name": "booths_SDC_WALLE_1",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
         {
-          "tileSize": 512,
+          "tileSize": 1024,
           "size": 1024
         }
       ],
@@ -4274,11 +3779,6 @@ var APP_DATA = {
       "id": "START-sigep",
       "name": "booths_SigEp_IndianaJones_1",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -4315,11 +3815,6 @@ var APP_DATA = {
       "name": "booths_SSA_MonstersINC_1",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -4354,11 +3849,6 @@ var APP_DATA = {
       "id": "START-suse-tpeg",
       "name": "booths_SuSE_TPEG_JurassicPark_1",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -4395,11 +3885,6 @@ var APP_DATA = {
       "name": "booths_AXO_InsideOut_9",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -4434,11 +3919,6 @@ var APP_DATA = {
       "id": "START-csa",
       "name": "booths_CSA_Mulan_7",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -4475,11 +3955,6 @@ var APP_DATA = {
       "name": "booths_AEPi_Simpsons_2",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -4514,11 +3989,6 @@ var APP_DATA = {
       "id": "2-booths_aepi_simpsons_3",
       "name": "booths_AEPi_Simpsons_3",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -4555,11 +4025,6 @@ var APP_DATA = {
       "name": "booths_AEPi_Simpsons_4",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -4594,11 +4059,6 @@ var APP_DATA = {
       "id": "4-booths_aepi_simpsons_5",
       "name": "booths_AEPi_Simpsons_5",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -4635,11 +4095,6 @@ var APP_DATA = {
       "name": "booths_AEPi_Simpsons_6",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -4674,11 +4129,6 @@ var APP_DATA = {
       "id": "6-booths_aepi_simpsons_7",
       "name": "booths_AEPi_Simpsons_7",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -4715,11 +4165,6 @@ var APP_DATA = {
       "name": "booths_AEPi_Simpsons_8",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -4754,11 +4199,6 @@ var APP_DATA = {
       "id": "8-booths_aepi_simpsons_9",
       "name": "booths_AEPi_Simpsons_9",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -4795,11 +4235,6 @@ var APP_DATA = {
       "name": "booths_AEPi_Simpsons_10",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -4834,11 +4269,6 @@ var APP_DATA = {
       "id": "10-booths_aepi_simpsons_11",
       "name": "booths_AEPi_Simpsons_11",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -4875,11 +4305,6 @@ var APP_DATA = {
       "name": "booths_AEPi_Simpsons_12",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -4914,11 +4339,6 @@ var APP_DATA = {
       "id": "12-booths_aepi_simpsons_13",
       "name": "booths_AEPi_Simpsons_13",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -4955,11 +4375,6 @@ var APP_DATA = {
       "name": "booths_AEPi_Simpsons_14",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -4994,11 +4409,6 @@ var APP_DATA = {
       "id": "14-booths_aepi_simpsons_15",
       "name": "booths_AEPi_Simpsons_15",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -5035,11 +4445,6 @@ var APP_DATA = {
       "name": "booths_AEPi_Simpsons_16",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -5068,11 +4473,6 @@ var APP_DATA = {
       "id": "17-booths_aepi_simpsons_18",
       "name": "booths_AEPi_Simpsons_18",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -5109,11 +4509,6 @@ var APP_DATA = {
       "name": "booths_AEPi_Simpsons_19",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -5148,11 +4543,6 @@ var APP_DATA = {
       "id": "19-booths_aepi_simpsons_20",
       "name": "booths_AEPi_Simpsons_20",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -5189,11 +4579,6 @@ var APP_DATA = {
       "name": "booths_AEPi_Simpsons_21",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -5228,11 +4613,6 @@ var APP_DATA = {
       "id": "21-booths_aepi_simpsons_22",
       "name": "booths_AEPi_Simpsons_22",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -5269,11 +4649,6 @@ var APP_DATA = {
       "name": "booths_AEPi_Simpsons_23",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -5308,11 +4683,6 @@ var APP_DATA = {
       "id": "23-booths_aepi_simpsons_24",
       "name": "booths_AEPi_Simpsons_24",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -5349,11 +4719,6 @@ var APP_DATA = {
       "name": "booths_AEPi_Simpsons_25",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -5388,11 +4753,6 @@ var APP_DATA = {
       "id": "25-booths_aepi_simpsons_26",
       "name": "booths_AEPi_Simpsons_26",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -5429,11 +4789,6 @@ var APP_DATA = {
       "name": "booths_AEPi_Simpsons_27",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -5468,11 +4823,6 @@ var APP_DATA = {
       "id": "27-booths_aepi_simpsons_28",
       "name": "booths_AEPi_Simpsons_28",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -5509,11 +4859,6 @@ var APP_DATA = {
       "name": "booths_AEPi_Simpsons_29",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -5548,11 +4893,6 @@ var APP_DATA = {
       "id": "29-booths_aepi_simpsons_30",
       "name": "booths_AEPi_Simpsons_30",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -5589,11 +4929,6 @@ var APP_DATA = {
       "name": "booths_AEPi_Simpsons_31",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -5629,11 +4964,6 @@ var APP_DATA = {
       "name": "booths_AEPi_Simpsons_32",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -5662,11 +4992,6 @@ var APP_DATA = {
       "id": "33-booths_aphi_barbie_2",
       "name": "booths_APhi_Barbie_2",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -5703,11 +5028,6 @@ var APP_DATA = {
       "name": "booths_APhi_Barbie_3",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -5742,11 +5062,6 @@ var APP_DATA = {
       "id": "35-booths_aphi_barbie_4",
       "name": "booths_APhi_Barbie_4",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -5783,11 +5098,6 @@ var APP_DATA = {
       "name": "booths_APhi_Barbie_5",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -5822,11 +5132,6 @@ var APP_DATA = {
       "id": "37-booths_aphi_barbie_6",
       "name": "booths_APhi_Barbie_6",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -5863,11 +5168,6 @@ var APP_DATA = {
       "name": "booths_APhi_Barbie_7",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -5902,11 +5202,6 @@ var APP_DATA = {
       "id": "39-booths_aphi_barbie_9",
       "name": "booths_APhi_Barbie_9",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -5943,11 +5238,6 @@ var APP_DATA = {
       "name": "booths_APhi_Barbie_10",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -5983,11 +5273,6 @@ var APP_DATA = {
       "name": "booths_APhi_Barbie_11",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -6016,11 +5301,6 @@ var APP_DATA = {
       "id": "43-booths_asa_howls_2",
       "name": "booths_ASA_Howls_2",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -6057,11 +5337,6 @@ var APP_DATA = {
       "name": "booths_ASA_Howls_3",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -6096,11 +5371,6 @@ var APP_DATA = {
       "id": "45-booths_asa_howls_4",
       "name": "booths_ASA_Howls_4",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -6137,11 +5407,6 @@ var APP_DATA = {
       "name": "booths_ASA_Howls_5",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -6176,11 +5441,6 @@ var APP_DATA = {
       "id": "47-booths_asa_howls_6",
       "name": "booths_ASA_Howls_6",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -6217,11 +5477,6 @@ var APP_DATA = {
       "name": "booths_ASA_Howls_7",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -6256,11 +5511,6 @@ var APP_DATA = {
       "id": "49-booths_asa_howls_8",
       "name": "booths_ASA_Howls_8",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -6297,11 +5547,6 @@ var APP_DATA = {
       "name": "booths_ASA_Howls_9",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -6336,11 +5581,6 @@ var APP_DATA = {
       "id": "51-booths_asa_howls_10",
       "name": "booths_ASA_Howls_10",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -6377,11 +5617,6 @@ var APP_DATA = {
       "name": "booths_ASA_Howls_11",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -6416,11 +5651,6 @@ var APP_DATA = {
       "id": "53-booths_asa_howls_12",
       "name": "booths_ASA_Howls_12",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -6457,11 +5687,6 @@ var APP_DATA = {
       "name": "booths_ASA_Howls_13",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -6496,11 +5721,6 @@ var APP_DATA = {
       "id": "55-booths_asa_howls_14",
       "name": "booths_ASA_Howls_14",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -6537,11 +5757,6 @@ var APP_DATA = {
       "name": "booths_ASA_Howls_15",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -6576,11 +5791,6 @@ var APP_DATA = {
       "id": "57-booths_asa_howls_16",
       "name": "booths_ASA_Howls_16",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -6617,11 +5827,6 @@ var APP_DATA = {
       "name": "booths_ASA_Howls_17",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -6657,11 +5862,6 @@ var APP_DATA = {
       "name": "booths_ASA_Howls_18",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -6691,11 +5891,6 @@ var APP_DATA = {
       "name": "booths_AXO_InsideOut_1",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -6724,11 +5919,6 @@ var APP_DATA = {
       "id": "61-booths_axo_insideout_2",
       "name": "booths_AXO_InsideOut_2",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -6765,11 +5955,6 @@ var APP_DATA = {
       "name": "booths_AXO_InsideOut_3",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -6804,11 +5989,6 @@ var APP_DATA = {
       "id": "63-booths_axo_insideout_4",
       "name": "booths_AXO_InsideOut_4",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -6845,11 +6025,6 @@ var APP_DATA = {
       "name": "booths_AXO_InsideOut_5",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -6884,11 +6059,6 @@ var APP_DATA = {
       "id": "65-booths_axo_insideout_6",
       "name": "booths_AXO_InsideOut_6",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -6925,11 +6095,6 @@ var APP_DATA = {
       "name": "booths_AXO_InsideOut_7",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -6964,11 +6129,6 @@ var APP_DATA = {
       "id": "67-booths_axo_insideout_8",
       "name": "booths_AXO_InsideOut_8",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -7005,11 +6165,6 @@ var APP_DATA = {
       "name": "booths_DDD_Jaws_2",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -7044,11 +6199,6 @@ var APP_DATA = {
       "id": "71-booths_ddd_jaws_3",
       "name": "booths_DDD_Jaws_3",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -7085,11 +6235,6 @@ var APP_DATA = {
       "name": "booths_DDD_Jaws_4",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -7125,11 +6270,6 @@ var APP_DATA = {
       "name": "booths_DDD_Jaws_5",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -7158,11 +6298,6 @@ var APP_DATA = {
       "id": "75-booths_dg_willywonka_2",
       "name": "booths_DG_WillyWonka_2",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -7199,11 +6334,6 @@ var APP_DATA = {
       "name": "booths_DG_WillyWonka_3",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -7238,11 +6368,6 @@ var APP_DATA = {
       "id": "77-booths_dg_willywonka_4",
       "name": "booths_DG_WillyWonka_4",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -7279,11 +6404,6 @@ var APP_DATA = {
       "name": "booths_DG_WillyWonka_5",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -7318,11 +6438,6 @@ var APP_DATA = {
       "id": "79-booths_dg_willywonka_6",
       "name": "booths_DG_WillyWonka_6",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -7359,11 +6474,6 @@ var APP_DATA = {
       "name": "booths_DG_WillyWonka_7",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -7398,11 +6508,6 @@ var APP_DATA = {
       "id": "81-booths_dg_willywonka_8",
       "name": "booths_DG_WillyWonka_8",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -7439,11 +6544,6 @@ var APP_DATA = {
       "name": "booths_DG_WillyWonka_9",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -7472,11 +6572,6 @@ var APP_DATA = {
       "id": "1-booths_fringe_muppets_2",
       "name": "booths_Fringe_Muppets_2",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -7513,11 +6608,6 @@ var APP_DATA = {
       "name": "booths_Fringe_Muppets_3",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -7552,11 +6642,6 @@ var APP_DATA = {
       "id": "3-booths_fringe_muppets_4",
       "name": "booths_Fringe_Muppets_4",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -7593,11 +6678,6 @@ var APP_DATA = {
       "name": "booths_Fringe_Muppets_5",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -7632,11 +6712,6 @@ var APP_DATA = {
       "id": "5-booths_fringe_muppets_6",
       "name": "booths_Fringe_Muppets_6",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -7673,11 +6748,6 @@ var APP_DATA = {
       "name": "booths_Fringe_Muppets_7",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -7712,11 +6782,6 @@ var APP_DATA = {
       "id": "7-booths_fringe_muppets_8",
       "name": "booths_Fringe_Muppets_8",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -7753,11 +6818,6 @@ var APP_DATA = {
       "name": "booths_Fringe_Muppets_9",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -7792,11 +6852,6 @@ var APP_DATA = {
       "id": "9-booths_fringe_muppets_10",
       "name": "booths_Fringe_Muppets_10",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -7833,11 +6888,6 @@ var APP_DATA = {
       "name": "booths_Fringe_Muppets_11",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -7866,11 +6916,6 @@ var APP_DATA = {
       "id": "12-booths_kgbprism_sharknado_2",
       "name": "booths_KGBPrism_Sharknado_2",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -7907,11 +6952,6 @@ var APP_DATA = {
       "name": "booths_KGBPrism_Sharknado_3",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -7946,11 +6986,6 @@ var APP_DATA = {
       "id": "14-booths_kgbprism_sharknado_4",
       "name": "booths_KGBPrism_Sharknado_4",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -7987,11 +7022,6 @@ var APP_DATA = {
       "name": "booths_KGBPrism_Sharknado_5",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -8027,11 +7057,6 @@ var APP_DATA = {
       "name": "booths_KGBPrism_Sharknado_6",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -8060,11 +7085,6 @@ var APP_DATA = {
       "id": "18-booths_menasaspirit_aladdin_2",
       "name": "booths_MenasaSpirit_Aladdin_2",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -8101,11 +7121,6 @@ var APP_DATA = {
       "name": "booths_MenasaSpirit_Aladdin_3",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -8140,11 +7155,6 @@ var APP_DATA = {
       "id": "20-booths_menasaspirit_aladdin_4",
       "name": "booths_MenasaSpirit_Aladdin_4",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -8181,11 +7191,6 @@ var APP_DATA = {
       "name": "booths_MenasaSpirit_Aladdin_5",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -8220,11 +7225,6 @@ var APP_DATA = {
       "id": "22-booths_menasaspirit_aladdin_6",
       "name": "booths_MenasaSpirit_Aladdin_6",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -8261,11 +7261,6 @@ var APP_DATA = {
       "name": "booths_MenasaSpirit_Aladdin_7",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -8300,11 +7295,6 @@ var APP_DATA = {
       "id": "24-booths_menasaspirit_aladdin_8",
       "name": "booths_MenasaSpirit_Aladdin_8",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -8341,11 +7331,6 @@ var APP_DATA = {
       "name": "booths_MenasaSpirit_Aladdin_9",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -8374,11 +7359,6 @@ var APP_DATA = {
       "id": "27-booths_phidelt_meninblack_2",
       "name": "booths_PhiDelt_MenInBlack_2",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -8415,11 +7395,6 @@ var APP_DATA = {
       "name": "booths_PhiDelt_MenInBlack_3",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -8455,11 +7430,6 @@ var APP_DATA = {
       "name": "booths_PhiDelt_MenInBlack_4",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -8494,11 +7464,6 @@ var APP_DATA = {
       "id": "30-booths_phidelt_meninblack_5",
       "name": "booths_PhiDelt_MenInBlack_5",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -8541,11 +7506,6 @@ var APP_DATA = {
       "name": "booths_PhiDelt_MenInBlack_6",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -8574,11 +7534,6 @@ var APP_DATA = {
       "id": "32-booths_phidelt_meninblack_8",
       "name": "booths_PhiDelt_MenInBlack_8",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -8615,11 +7570,6 @@ var APP_DATA = {
       "name": "booths_PhiDelt_MenInBlack_10",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -8654,11 +7604,6 @@ var APP_DATA = {
       "id": "34-booths_phidelt_meninblack_11",
       "name": "booths_PhiDelt_MenInBlack_11",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -8695,11 +7640,6 @@ var APP_DATA = {
       "name": "booths_PhiDelt_MenInBlack_12",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -8734,11 +7674,6 @@ var APP_DATA = {
       "id": "36-booths_phidelt_meninblack_13",
       "name": "booths_PhiDelt_MenInBlack_13",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -8775,11 +7710,6 @@ var APP_DATA = {
       "name": "booths_PhiDelt_MenInBlack_14",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -8814,11 +7744,6 @@ var APP_DATA = {
       "id": "38-booths_phidelt_meninblack_15",
       "name": "booths_PhiDelt_MenInBlack_15",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -8855,11 +7780,6 @@ var APP_DATA = {
       "name": "booths_PhiDelt_MenInBlack_16",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -8894,11 +7814,6 @@ var APP_DATA = {
       "id": "40-booths_phidelt_meninblack_17",
       "name": "booths_PhiDelt_MenInBlack_17",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -8935,11 +7850,6 @@ var APP_DATA = {
       "name": "booths_PhiDelt_MenInBlack_18",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -8974,11 +7884,6 @@ var APP_DATA = {
       "id": "42-booths_phidelt_meninblack_19",
       "name": "booths_PhiDelt_MenInBlack_19",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -9015,11 +7920,6 @@ var APP_DATA = {
       "name": "booths_PhiDelt_MenInBlack_20",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -9055,11 +7955,6 @@ var APP_DATA = {
       "name": "booths_PhiDelt_MenInBlack_START",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -9088,11 +7983,6 @@ var APP_DATA = {
       "id": "46-booths_sdc_walle_2",
       "name": "booths_SDC_WALLE_2",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -9129,11 +8019,6 @@ var APP_DATA = {
       "name": "booths_SDC_WALLE_3",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -9168,11 +8053,6 @@ var APP_DATA = {
       "id": "48-booths_sdc_walle_4",
       "name": "booths_SDC_WALLE_4",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -9209,11 +8089,6 @@ var APP_DATA = {
       "name": "booths_SDC_WALLE_5",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -9248,11 +8123,6 @@ var APP_DATA = {
       "id": "50-booths_sdc_walle_6",
       "name": "booths_SDC_WALLE_6",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -9289,11 +8159,6 @@ var APP_DATA = {
       "name": "booths_SDC_WALLE_7",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -9329,11 +8194,6 @@ var APP_DATA = {
       "name": "booths_SDC_WALLE_8",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -9362,11 +8222,6 @@ var APP_DATA = {
       "id": "1-booths_sigep_indianajones_2",
       "name": "booths_SigEp_IndianaJones_2",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -9403,11 +8258,6 @@ var APP_DATA = {
       "name": "booths_SigEp_IndianaJones_3",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -9442,11 +8292,6 @@ var APP_DATA = {
       "id": "3-booths_sigep_indianajones_5",
       "name": "booths_SigEp_IndianaJones_5",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -9483,11 +8328,6 @@ var APP_DATA = {
       "name": "booths_SigEp_IndianaJones_6",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -9522,11 +8362,6 @@ var APP_DATA = {
       "id": "5-booths_sigep_indianajones_7",
       "name": "booths_SigEp_IndianaJones_7",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -9563,11 +8398,6 @@ var APP_DATA = {
       "name": "booths_SigEp_IndianaJones_8",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -9602,11 +8432,6 @@ var APP_DATA = {
       "id": "7-booths_sigep_indianajones_9",
       "name": "booths_SigEp_IndianaJones_9",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -9643,11 +8468,6 @@ var APP_DATA = {
       "name": "booths_SigEp_IndianaJones_10",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -9682,11 +8502,6 @@ var APP_DATA = {
       "id": "9-booths_sigep_indianajones_11",
       "name": "booths_SigEp_IndianaJones_11",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -9723,11 +8538,6 @@ var APP_DATA = {
       "name": "booths_SigEp_IndianaJones_12",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -9762,11 +8572,6 @@ var APP_DATA = {
       "id": "11-booths_sigep_indianajones_13",
       "name": "booths_SigEp_IndianaJones_13",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -9803,11 +8608,6 @@ var APP_DATA = {
       "name": "booths_SigEp_IndianaJones_14",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -9842,11 +8642,6 @@ var APP_DATA = {
       "id": "13-booths_sigep_indianajones_15",
       "name": "booths_SigEp_IndianaJones_15",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -9883,11 +8678,6 @@ var APP_DATA = {
       "name": "booths_SigEp_IndianaJones_16",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -9922,11 +8712,6 @@ var APP_DATA = {
       "id": "15-booths_sigep_indianajones_17",
       "name": "booths_SigEp_IndianaJones_17",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -9963,11 +8748,6 @@ var APP_DATA = {
       "name": "booths_SigEp_IndianaJones_18",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -9996,11 +8776,6 @@ var APP_DATA = {
       "id": "18-booths_ssa_monstersinc_2",
       "name": "booths_SSA_MonstersINC_2",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -10037,11 +8812,6 @@ var APP_DATA = {
       "name": "booths_SSA_MonstersINC_3",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -10076,11 +8846,6 @@ var APP_DATA = {
       "id": "20-booths_ssa_monstersinc_4",
       "name": "booths_SSA_MonstersINC_4",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -10117,11 +8882,6 @@ var APP_DATA = {
       "name": "booths_SSA_MonstersINC_5",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -10156,11 +8916,6 @@ var APP_DATA = {
       "id": "22-booths_ssa_monstersinc_6",
       "name": "booths_SSA_MonstersINC_6",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -10197,11 +8952,6 @@ var APP_DATA = {
       "name": "booths_SSA_MonstersINC_7",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -10237,11 +8987,6 @@ var APP_DATA = {
       "name": "booths_SSA_MonstersINC_8",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -10270,11 +9015,6 @@ var APP_DATA = {
       "id": "1-2",
       "name": "2",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -10311,11 +9051,6 @@ var APP_DATA = {
       "name": "3",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -10350,11 +9085,6 @@ var APP_DATA = {
       "id": "3-4",
       "name": "4",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -10391,11 +9121,6 @@ var APP_DATA = {
       "name": "5",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -10430,11 +9155,6 @@ var APP_DATA = {
       "id": "5-6",
       "name": "6",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -10471,11 +9191,6 @@ var APP_DATA = {
       "name": "7",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -10504,11 +9219,6 @@ var APP_DATA = {
       "id": "8-2",
       "name": "2",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -10545,11 +9255,6 @@ var APP_DATA = {
       "name": "3",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -10584,11 +9289,6 @@ var APP_DATA = {
       "id": "10-4",
       "name": "4",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -10625,11 +9325,6 @@ var APP_DATA = {
       "name": "5",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -10664,11 +9359,6 @@ var APP_DATA = {
       "id": "12-6",
       "name": "6",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -10705,11 +9395,6 @@ var APP_DATA = {
       "name": "7",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -10744,11 +9429,6 @@ var APP_DATA = {
       "id": "14-8",
       "name": "8",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -10785,11 +9465,6 @@ var APP_DATA = {
       "name": "9",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -10824,11 +9499,6 @@ var APP_DATA = {
       "id": "16-10",
       "name": "10",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -10865,11 +9535,6 @@ var APP_DATA = {
       "name": "11",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -10904,11 +9569,6 @@ var APP_DATA = {
       "id": "18-12",
       "name": "12",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -10945,11 +9605,6 @@ var APP_DATA = {
       "name": "13",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -10978,11 +9633,6 @@ var APP_DATA = {
       "id": "21-2",
       "name": "2",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -11019,11 +9669,6 @@ var APP_DATA = {
       "name": "3",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -11058,11 +9703,6 @@ var APP_DATA = {
       "id": "23-4",
       "name": "4",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -11099,11 +9739,6 @@ var APP_DATA = {
       "name": "5",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -11132,11 +9767,6 @@ var APP_DATA = {
       "id": "26-2",
       "name": "2",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -11173,11 +9803,6 @@ var APP_DATA = {
       "name": "3",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -11213,11 +9838,6 @@ var APP_DATA = {
       "name": "4",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -11246,11 +9866,6 @@ var APP_DATA = {
       "id": "START-tsa",
       "name": "Start_TSA_LaLaLand",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -11287,11 +9902,6 @@ var APP_DATA = {
       "name": "2",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -11326,11 +9936,6 @@ var APP_DATA = {
       "id": "31-3",
       "name": "3",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -11367,11 +9972,6 @@ var APP_DATA = {
       "name": "4",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -11406,11 +10006,6 @@ var APP_DATA = {
       "id": "33-5",
       "name": "5",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -11447,11 +10042,6 @@ var APP_DATA = {
       "name": "6",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -11486,11 +10076,6 @@ var APP_DATA = {
       "id": "35-8",
       "name": "8",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -11533,11 +10118,6 @@ var APP_DATA = {
       "name": "9",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -11572,11 +10152,6 @@ var APP_DATA = {
       "id": "37-10",
       "name": "10",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -11613,11 +10188,6 @@ var APP_DATA = {
       "name": "11",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -11652,11 +10222,6 @@ var APP_DATA = {
       "id": "39-12-end_tsa_lalaland",
       "name": "12",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512
@@ -11693,11 +10258,6 @@ var APP_DATA = {
       "name": "1",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -11733,11 +10293,6 @@ var APP_DATA = {
       "name": "2",
       "levels": [
         {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
           "tileSize": 512,
           "size": 512
         },
@@ -11772,11 +10327,6 @@ var APP_DATA = {
       "id": "2-swe",
       "name": "3",
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
         {
           "tileSize": 512,
           "size": 512

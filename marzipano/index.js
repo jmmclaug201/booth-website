@@ -160,7 +160,6 @@
   }
 
   function switchScene(scene) {
-    console.log(scene.data.id);
     stopAutorotate();
     scene.view.setParameters(scene.data.initialViewParameters);
     scene.scene.switchTo();
@@ -351,9 +350,4 @@
       switchScene(findSceneById(sceneId));
     }
   });
-
-  setInterval(() => {
-    console.log("Pitch:", viewer.scene().view().pitch());
-    console.log("Yaw:", viewer.scene().view().yaw());
-  }, 1000);
 })();
