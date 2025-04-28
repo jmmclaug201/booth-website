@@ -87,6 +87,22 @@ b {
 #content {
   width: auto;
   padding: 2em 8em;
+  margin-bottom: 2em;
+}
+
+#content.text-heavy {
+  padding: 2em 16em;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1em;
+}
+
+.text-block {
+  font-size: medium;
+  line-height: 1.5;
 }
 
 #year-picker {
@@ -102,16 +118,15 @@ b {
   font-size: large;
 }
 
-#plot-map {
-  margin-bottom: 1em;
-}
-
 #plot-map h2 {
   font-size: xx-large;
 }
 
 #plot-map-svg {
   width: 100%;
+  height: auto;
+  margin-top: 1em;
+  margin-bottom: 2em;
 }
 
 #plot-map-svg rect:hover {
@@ -150,8 +165,27 @@ b {
 }
 
 #site-footer {
-  margin-top: 2em;
-  padding: 1em;
+  padding: 2em;
   padding-left: 8em;
   border-top: solid 1px var(--light-gray);
+}
+
+@media only screen and (max-width: 768px) {
+  #site-header {
+    padding: 1em 4em;
+  }
+
+  #content {
+    padding: 2em 4em;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  #site-header {
+    padding: 1em 2em;
+  }
+
+  #content {
+    padding: 2em 2em;
+  }
 }
