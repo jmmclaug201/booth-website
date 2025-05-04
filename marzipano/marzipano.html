@@ -45,8 +45,27 @@
 <script src="../vendor/bowser.min.js" ></script>
 <script src="../vendor/marzipano.js" ></script>
 
-<script src="data.js"></script>
-<script src="index.js"></script>
-
+<script>
+  async function initializeTour() {
+    // Fetch data for the correct year
+    const dataFilePath = `booth_data/${YEAR}/data.json`;
+    await fetch(dataFilePath)
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error(`Error fetching ${dataFilePath}: ${response.status}`);
+        }
+        return response.json();
+      }).then((data) => {
+        // Add Index Script to DOM now that APP_DATA is initialized
+        window.APP_DATA = data;
+        const indexScript = document.createElement('script');
+        indexScript.setAttribute('src', `index.js`);
+        document.body.appendChild(indexScript);
+      }).catch((error) => {
+        console.error(error);
+      });
+  };
+  initializeTour();
+</script>
 </body>
 </html>

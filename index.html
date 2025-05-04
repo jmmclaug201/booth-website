@@ -162,7 +162,13 @@
       Website by Joe McLaughlin, Katelyn Zheng, and the Spring Carnival Software Subcommittee
     </footer>
     <script>
-      const svg = document.querySelector('#plot-map-svg');
+      // Pass year into iframe
+      const queryParams = new URLSearchParams(window.location.search);
+      const year = queryParams.get('year') ?? 2025;
+      document.getElementById('pano-frame').contentWindow.YEAR = year;
+
+      // Set up SVG tooltips
+      const svg = document.getElementById('plot-map-svg');
       const rects = svg.getElementsByTagName('rect');
       for (const rect of rects) {
         try {
@@ -195,10 +201,5 @@
         }
       };
     </script>
-    <script src="vendor/screenfull.min.js" ></script>
-    <script src="vendor/bowser.min.js" ></script>
-    <script src="vendor/marzipano.js" ></script>
-    <script src="marzipano/data.js"></script>
-    <script src="marzipano/index.js"></script>
   </body>
 </html>

@@ -20,6 +20,7 @@
   var bowser = window.bowser;
   var screenfull = window.screenfull;
   var data = window.APP_DATA;
+  var pageYear = window.YEAR;
 
   // Grab elements from DOM.
   var panoElement = document.querySelector('#pano');
@@ -68,7 +69,7 @@
 
   // Create scenes.
   var scenes = data.scenes.map(function(data) {
-    var urlPrefix = "tiles";
+    var urlPrefix = `booth_data/${pageYear}/tiles`;
     // TODO: Stop Marzipano from fetching z = 0 images, these don't exist...
     // Alternatively, bring back CubeMapPreviewURL option and get it to act normal...
     var source = Marzipano.ImageUrlSource.fromString(

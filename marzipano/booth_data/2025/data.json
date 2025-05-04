@@ -1,4 +1,4 @@
-var APP_DATA = {
+{
   "scenes": [
     {
       "id": "0-midway_1",
@@ -6290,7 +6290,7 @@ var APP_DATA = {
           "pitch": -0.0006515044685801996,
           "rotation": 0,
           "target": "72-booths_ddd_jaws_4"
-        },
+        }
       ],
       "infoHotspots": []
     },
@@ -9211,7 +9211,7 @@ var APP_DATA = {
           "pitch": 0.12966801641149672,
           "rotation": 0,
           "target": "5-6"
-        },
+        }
       ],
       "infoHotspots": []
     },
@@ -9759,7 +9759,7 @@ var APP_DATA = {
           "pitch": 0.21912904060273064,
           "rotation": 0,
           "target": "23-4"
-        },
+        }
       ],
       "infoHotspots": []
     },
@@ -10360,4 +10360,4 @@ var APP_DATA = {
     "fullscreenButton": true,
     "viewControlButtons": false
   }
-};
+}
