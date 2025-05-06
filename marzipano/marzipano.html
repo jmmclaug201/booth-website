@@ -48,7 +48,7 @@
 <script>
   async function initializeTour() {
     // Fetch data for the correct year
-    const dataFilePath = `booth_data/${YEAR}/data.json`;
+    const dataFilePath = `../booth_data/${YEAR}/tile-data.json`;
     await fetch(dataFilePath)
       .then((response) => {
         if (!response.ok) {

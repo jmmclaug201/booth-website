@@ -118,10 +118,6 @@ b {
   font-size: large;
 }
 
-#plot-map h2 {
-  font-size: xx-large;
-}
-
 #plot-map-svg {
   width: 100%;
   height: auto;

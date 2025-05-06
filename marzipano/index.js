@@ -69,7 +69,7 @@
 
   // Create scenes.
   var scenes = data.scenes.map(function(data) {
-    var urlPrefix = `booth_data/${pageYear}/tiles`;
+    var urlPrefix = `../booth_data/${pageYear}/tiles`;
     // TODO: Stop Marzipano from fetching z = 0 images, these don't exist...
     // Alternatively, bring back CubeMapPreviewURL option and get it to act normal...
     var source = Marzipano.ImageUrlSource.fromString(

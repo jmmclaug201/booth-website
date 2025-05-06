@@ -3749,7 +3749,7 @@
           "size": 512
         },
         {
-          "tileSize": 1024,
+          "tileSize": 512,
           "size": 1024
         }
       ],

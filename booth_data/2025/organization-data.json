@@ -1,0 +1,82 @@
+{
+  "kappa-alpha-theta": {
+    "name": "Kappa Alpha Theta",
+    "theme": "Interstellar"
+  },
+  "delta-gamma": {
+    "name": "Delta Gamma",
+    "theme": "Wonka"
+  },
+  "alpha-epsilon-pi": {
+    "name": "Alpha Epsilon Pi",
+    "theme": "The Simpsons"
+  },
+  "phi-delta-theta": {
+    "name": "Phi Delta Theta",
+    "theme": "Men In Black"
+  },
+  "swe": {
+    "name": "Society of Women Engineers",
+    "theme": "How to Train Your Dragon"
+  },
+  "suse-tpeg": {
+    "name": "Sustainable Earth / Theme Park Engineering Group",
+    "theme": "Jurassic Park"
+  },
+  "ssa": {
+    "name": "SSA / HKSA / FSA / KASA / SIAM",
+    "theme": "Monsters Inc"
+  },
+  "menasa-spirit": {
+    "name": "MENASA / Spirit",
+    "theme": "Aladdin"
+  },
+  "kgb-prism": {
+    "name": "KGB / PRISM",
+    "theme": "Sharknado"
+  },
+  "asce": {
+    "name": "American Society of Civil Engineers",
+    "theme": "The LEGO Movie"
+  },
+  "tsa": {
+    "name": "Taiwanese Students Association",
+    "theme": "La La Land"
+  },
+  "achio": {
+    "name": "Alpha Chi Omega",
+    "theme": "Inside Out"
+  },
+  "tridelt": {
+    "name": "Delta Delta Delta",
+    "theme": "Jaws"
+  },
+  "aphi": {
+    "name": "Alpha Phi",
+    "theme": "Barbie"
+  },
+  "fringe": {
+    "name": "Fringe",
+    "theme": "The Muppets"
+  },
+  "sigep": {
+    "name": "Sigma Phi Epsilon",
+    "theme": "Indiana Jones"
+  },
+  "kkg": {
+    "name": "Kappa Kappa Gamma",
+    "theme": "Toy Story"
+  },
+  "csa": {
+    "name": "Chinese Students Association",
+    "theme": "Mulan"
+  },
+  "asa": {
+    "name": "Asian Student Association",
+    "theme": "Howl's Moving Castle"
+  },
+  "sdc": {
+    "name": "Student Dormitory Council",
+    "theme": "WALL-E"
+  }
+}
